@@ -238,4 +238,5 @@ For production deployment:
 
 **Built for Thmanyah Coding Assignment**  
 **Developer**: Mubashir Mohd Shoukat  
+**GitHub Repository**: https://github.com/Mubashir21/podcast-search  
 **Development Time**: ~2 hour
